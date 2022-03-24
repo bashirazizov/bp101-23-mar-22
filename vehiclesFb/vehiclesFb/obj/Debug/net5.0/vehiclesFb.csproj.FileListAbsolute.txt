@@ -1,0 +1,16 @@
+C:\Users\Bashir Azizov\source\repos\vehiclesFb\vehiclesFb\bin\Debug\net5.0\vehiclesFb.exe
+C:\Users\Bashir Azizov\source\repos\vehiclesFb\vehiclesFb\bin\Debug\net5.0\vehiclesFb.deps.json
+C:\Users\Bashir Azizov\source\repos\vehiclesFb\vehiclesFb\bin\Debug\net5.0\vehiclesFb.runtimeconfig.json
+C:\Users\Bashir Azizov\source\repos\vehiclesFb\vehiclesFb\bin\Debug\net5.0\vehiclesFb.runtimeconfig.dev.json
+C:\Users\Bashir Azizov\source\repos\vehiclesFb\vehiclesFb\bin\Debug\net5.0\vehiclesFb.dll
+C:\Users\Bashir Azizov\source\repos\vehiclesFb\vehiclesFb\bin\Debug\net5.0\ref\vehiclesFb.dll
+C:\Users\Bashir Azizov\source\repos\vehiclesFb\vehiclesFb\bin\Debug\net5.0\vehiclesFb.pdb
+C:\Users\Bashir Azizov\source\repos\vehiclesFb\vehiclesFb\obj\Debug\net5.0\vehiclesFb.csproj.AssemblyReference.cache
+C:\Users\Bashir Azizov\source\repos\vehiclesFb\vehiclesFb\obj\Debug\net5.0\vehiclesFb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bashir Azizov\source\repos\vehiclesFb\vehiclesFb\obj\Debug\net5.0\vehiclesFb.AssemblyInfoInputs.cache
+C:\Users\Bashir Azizov\source\repos\vehiclesFb\vehiclesFb\obj\Debug\net5.0\vehiclesFb.AssemblyInfo.cs
+C:\Users\Bashir Azizov\source\repos\vehiclesFb\vehiclesFb\obj\Debug\net5.0\vehiclesFb.csproj.CoreCompileInputs.cache
+C:\Users\Bashir Azizov\source\repos\vehiclesFb\vehiclesFb\obj\Debug\net5.0\vehiclesFb.dll
+C:\Users\Bashir Azizov\source\repos\vehiclesFb\vehiclesFb\obj\Debug\net5.0\ref\vehiclesFb.dll
+C:\Users\Bashir Azizov\source\repos\vehiclesFb\vehiclesFb\obj\Debug\net5.0\vehiclesFb.pdb
+C:\Users\Bashir Azizov\source\repos\vehiclesFb\vehiclesFb\obj\Debug\net5.0\vehiclesFb.genruntimeconfig.cache
